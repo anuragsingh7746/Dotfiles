@@ -1,2 +1,2 @@
 # Dotfiles
-my personal linux environment files 
+Tmux/i3/vim - config files 
